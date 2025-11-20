@@ -1,5 +1,3 @@
----
-
 ## Retail Sales Analysis Dashboard
 
 A fully interactive Excel dashboard designed to analyze retail sales performance, understand trends, and support business decision-making.
@@ -170,4 +168,5 @@ If you want, I can also make:
 * A **resume-optimized project description**
 
 Just tell me!
+
 
