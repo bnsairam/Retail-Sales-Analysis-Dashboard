@@ -158,15 +158,8 @@ MIT License
 
 Sairam
 GitHub: [https://github.com/bnsairam](https://github.com/bnsairam)
+Website:[https://bnsairam.vercel.app/](https://bnsairam.vercel.app/)
+Gmail:bnsairam14@gmail.com
 
----
-
-If you want, I can also make:
-
-* A **very short README**
-* A **detailed enterprise-level README**
-* A **resume-optimized project description**
-
-Just tell me!
 
 
