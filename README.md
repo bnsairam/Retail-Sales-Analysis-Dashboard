@@ -1,7 +1,3 @@
-Here is the **final clean COPY-PASTE version** of your detailed README — no extra spacing, no formatting issues, just select → copy → paste into GitHub.
-
----
-
 ## Retail Sales Analysis Dashboard
 
 A fully interactive and visually appealing Excel dashboard designed to analyze retail sales performance, monitor business KPIs, and uncover actionable insights. This project demonstrates end-to-end data cleaning, preparation, and dynamic dashboard creation using Microsoft Excel.
@@ -167,4 +163,3 @@ Gmail: [bnsairam14@gmail.com](mailto:bnsairam14@gmail.com)
 
 ---
 
-If you'd like, I can also create a **Short Version**, **ATS-friendly Resume Project Description**, or **LinkedIn post** for this project.
