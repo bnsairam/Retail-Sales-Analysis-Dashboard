@@ -1,5 +1,3 @@
-Here is the **same README rewritten with ALL sections starting with `##`** exactly as you asked — clean, professional, copy-paste ready.
-
 ---
 
 ## Retail Sales Analysis Dashboard
@@ -172,3 +170,4 @@ If you want, I can also make:
 * A **resume-optimized project description**
 
 Just tell me!
+
